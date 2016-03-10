@@ -4,44 +4,44 @@
 |----------------------------------------------------------------------------
 */
 /*
-	BASE COLOR CODE: #75a932
-	BASE COLOR END (FOR GRADIENT): #5e9814
+	BASE COLOR CODE: #7BAA38
+	BASE COLOR END (FOR GRADIENT): #7BAA38
 	HOVER COLOR: #609d11
 */
 /******************** GLOBAL STYLES ********************/
 a {
-  color: #75a932;
+  color: #7BAA38;
 }
 .text-color {
-  color: #75a932;
+  color: #7BAA38;
 }
 .icon {
-  fill: #75a932;
+  fill: #7BAA38;
 }
 .shape-bg {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .gradient-bg {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .icon-border-1 {
-  border: 1px solid #75a932;
+  border: 1px solid #7BAA38;
 }
 .icon-border-2 {
-  border: 2px solid #75a932;
+  border: 2px solid #7BAA38;
 }
 .btn-base {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .btn-base:after {
   background: #609d11;
 }
 .btn-trans {
-  color: #75a932;
-  border: 2px solid #75a932;
+  color: #7BAA38;
+  border: 2px solid #7BAA38;
 }
 .btn-trans .icon {
-  fill: #75a932;
+  fill: #7BAA38;
 }
 .btn-trans:hover,
 .btn-trans:focus,
@@ -50,25 +50,25 @@ a {
   border-color: #609d11;
 }
 .btn-white {
-  color: #75a932;
+  color: #7BAA38;
 }
 .tab-btn li.active a {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .filter-buttons .active {
-  color: #75a932;
+  color: #7BAA38;
 }
 /******************** NAVBAR STYLE ********************/
 .navbar-nemo .navbar-nav > li > a:hover,
 .navbar-nemo .navbar-nav > li > a:focus {
-  color: #75a932;
+  color: #7BAA38;
   background-color: transparent;
 }
 .navbar-nemo .navbar-nav > .active > a {
-  color: #75a932;
+  color: #7BAA38;
 }
 .navbar-toggle {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 /******************** SECTION STYLES ********************/
 .gradient-overlay:before {
@@ -78,106 +78,106 @@ a {
   background-image: linear-gradient(to bottom right, rgba(117, 169, 50, 0.9), rgba(117, 169, 50, 0.9));
 }
 .polygon-bg {
-  background-image: url(../../images/polygon-bg/green-2.jpg);
+  background-image: url(http://campbellhc.github.io/engagehireclix/images/polygon-bg/green-2.jpg);
 }
 .video-bg:before {
   background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.75), rgba(117, 169, 50, 0.75));
 }
 .section-heading .lines {
-  border-top: 2px solid #75a932;
+  border-top: 2px solid #7BAA38;
 }
 .section-heading .lines:before,
 .section-heading .lines:after {
-  border-top: 2px solid #75a932;
+  border-top: 2px solid #7BAA38;
 }
 .heading-pre-suf:before,
 .heading-pre-suf:after {
-  background-color: #75a932;
+  background-color: #7BAA38;
 }
 /* SWIPER BULLETS */
 .swiper-pagination-bullet-active {
-  background-color: #75a932;
+  background-color: #7BAA38;
 }
 .event-info {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .event-info.white-bg {
-  color: #75a932;
+  color: #7BAA38;
 }
 .event-info.white-bg .heading-text {
-  color: #75a932;
+  color: #7BAA38;
 }
 /******************** FORMS ********************/
 .form-control:focus {
-  border-color: #75a932;
+  border-color: #7BAA38;
 }
 .form-standard:focus {
-  border-color: #75a932;
+  border-color: #7BAA38;
 }
 .form-underlined .form-control:focus {
-  border-color: #75a932;
+  border-color: #7BAA38;
 }
 .select-radio input[type="radio"]:checked + label {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .select-outer:after {
-  border-color: #75a932 transparent transparent;
+  border-color: #7BAA38 transparent transparent;
 }
 .select-outer .form-inline-input {
-  color: #75a932;
+  color: #7BAA38;
 }
 .form-widget .btn-trans {
   background-color: rgba(117, 169, 50, 0.05);
 }
 .select-item input[type="checkbox"]:before {
-  border: 2px solid #75a932;
+  border: 2px solid #7BAA38;
 }
 .select-item input[type="checkbox"]:checked:after {
-  background-color: #75a932;
+  background-color: #7BAA38;
 }
 .select-item .form-control {
-  color: #75a932;
+  color: #7BAA38;
 }
 .nav-btn-tabs .active .btn {
-  border-color: #75a932;
-  color: #75a932;
+  border-color: #7BAA38;
+  color: #7BAA38;
 }
 .order-list li:before {
-  color: #75a932;
+  color: #7BAA38;
 }
 .select-dropdown .form-standard {
-  color: #75a932;
+  color: #7BAA38;
 }
 .radio-standard input[type="radio"]:checked + label:after {
-  background-color: #75a932;
+  background-color: #7BAA38;
 }
 .radio-standard label:before {
-  border: 1px solid #75a932;
+  border: 1px solid #7BAA38;
 }
 .order-select-menu .form-control {
-  color: #75a932;
+  color: #7BAA38;
 }
 .total-payment:before {
-  color: #75a932;
+  color: #7BAA38;
 }
 .total-payment span {
-  color: #75a932;
+  color: #7BAA38;
 }
 /******************** DESCRIPTIONS ********************/
 .desc-title .title-element {
   background-image: linear-gradient(to bottom right, rgba(117, 169, 50, 0.9), rgba(94, 152, 20, 0.9));
 }
 .objective-time {
-  color: #75a932;
+  color: #7BAA38;
 }
 /******************** FEATURES SECTIONS ********************/
 .feature-side-content.active .title-text,
 .feature-side-content:hover .title-text {
-  color: #75a932;
+  color: #7BAA38;
 }
 .feature-side-content.active .icon-shape,
 .feature-side-content:hover .icon-shape {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 /******************** GALLERY STYLE ********************/
 .gallery-img-pop .hover-effect {
@@ -185,7 +185,7 @@ a {
 }
 /******************** OTHERS ********************/
 .speakers-1 .speaker-intro figcaption {
-  border-top: 3px solid #75a932;
+  border-top: 3px solid #7BAA38;
 }
 .img-hover-content:hover .img-intro {
   background-image: linear-gradient(to bottom right, rgba(117, 169, 50, 0), rgba(94, 152, 20, 0));
@@ -197,78 +197,78 @@ a {
   background-image: linear-gradient(to bottom right, rgba(117, 169, 50, 0.2), rgba(94, 152, 20, 0.2));
 }
 .img-hover-content .btn-trans:hover {
-  color: #75a932;
+  color: #7BAA38;
 }
 .restaurant-menu .title-text {
-  color: #75a932;
+  color: #7BAA38;
 }
 .panel-faqs .title-text a {
-  color: #75a932;
+  color: #7BAA38;
 }
 .panel-schedule .schedule-time:after {
-  border-left: 2px solid #75a932;
+  border-left: 2px solid #7BAA38;
 }
 .post-preview .post-type {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .post-preview .category {
-  color: #75a932;
+  color: #7BAA38;
 }
 .speakers-1 .speaker-intro .icon-collapsed {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 /******************** PRICING TABLE ********************/
 .pricing-table-1 .price {
-  color: #75a932;
+  color: #7BAA38;
 }
 .pricing-table-1 .featured .pricing-element {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .pricing-table-2 .pricing-element .price {
-  border: 2px solid #75a932;
-  color: #75a932;
+  border: 2px solid #7BAA38;
+  color: #7BAA38;
 }
 .pricing-table-2 .pricing-element.featured {
-  border-color: #75a932;
+  border-color: #7BAA38;
 }
 .pricing-table-2 .pricing-element.featured .package {
-  color: #75a932;
+  color: #7BAA38;
 }
 .pricing-table-2 .pricing-element.featured .price {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .pricing-table-2 .pricing-element.featured .btn-trans {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .pricing-table-2 .pricing-element.featured .btn-trans:hover {
-  background-image: linear-gradient(to bottom right, #5e9814, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 .pricing-element-3 .price {
-  color: #75a932;
+  color: #7BAA38;
 }
 .pricing-element-3.featured {
-  background-image: linear-gradient(to bottom right, #75a932, #5e9814);
+  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
 /******************** SCREENSHOTS ********************/
 .screenshots-2 .screen-title {
-  color: #75a932;
+  color: #7BAA38;
 }
 .screenshots-2 .screen-no {
-  border: 1px solid #75a932;
+  border: 1px solid #7BAA38;
 }
 /******************** TESTIMONIAL ********************/
 .testimonials .client-name {
-  color: #75a932;
+  color: #7BAA38;
 }
 .testimonials-4 .thumb {
-  background-color: #75a932;
+  background-color: #7BAA38;
 }
 .blockquote-gradient-bg {
   background-image: linear-gradient(to bottom right, rgba(117, 169, 50, 0.9), rgba(94, 152, 20, 0.9));
 }
 /******************** FOOTER STYLES ********************/
 .footers .socialize .icon:hover {
-  fill: #75a932;
+  fill: #7BAA38;
 }
 
 /*# sourceMappingURL=green-2.css.map */
