@@ -499,12 +499,12 @@ button:focus {
   color: #fff;
 }
 .image-bg {
-  background: url(../images/app-home-bg.jpg);
+  background: url(http://campbellhc.github.io/engagehireclix/images/hanover-bg.jpg);
   background-position: center top;
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/app-home-bg.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/hanover-bg.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -1694,11 +1694,11 @@ button:focus {
   padding: 200px 0;
 }
 .elearning-home.image-bg {
-  background: url(../images/elearning-home-bg.jpg) no-repeat center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/elearning-home-bg.jpg) no-repeat center top;
   background-size: cover;
 }
 .elearning-home.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/elearning-home-bg.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/elearning-home-bg.jpg) no-repeat center top;
   background-size: cover;
 }
 /******************** EVENT HOME 1 ********************/
@@ -1707,11 +1707,11 @@ button:focus {
   padding-bottom: 207px;
 }
 .event-home-1.image-bg {
-  background: url(../images/event-home-bg-1.jpg) no-repeat center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/event-home-bg-1.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-1.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/event-home-bg-1.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/event-home-bg-1.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-1 .logo-home {
@@ -1733,11 +1733,11 @@ button:focus {
   padding-bottom: 133px;
 }
 .event-home-2.image-bg {
-  background: url(../images/event-home-bg-2.jpg) no-repeat center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/event-home-bg-2.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-2.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/event-home-bg-2.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/event-home-bg-2.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-2 .heading-text {
@@ -1800,12 +1800,12 @@ button:focus {
   padding-bottom: 325px;
 }
 .photography-home.image-bg {
-  background: url(../images/photography-home.jpg);
+  background: url(http://campbellhc.github.io/engagehireclix/images/photography-home.jpg);
   background-position: center top;
   background-size: cover;
 }
 .photography-home.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/photography-home.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/photography-home.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -2384,7 +2384,7 @@ button:focus {
 |----------------------------------------------------------------------------
 */
 .pricing-table-1.image-bg {
-  background: linear-gradient(rgba(247, 247, 247, 0.9), rgba(247, 247, 247, 0.85)), url(../images/pricing-1-bg.jpg) no-repeat center center;
+  background: linear-gradient(rgba(247, 247, 247, 0.9), rgba(247, 247, 247, 0.85)), url(http://campbellhc.github.io/engagehireclix/images/pricing-1-bg.jpg) no-repeat center center;
   background-size: cover;
 }
 @media (min-width: 992px) {
@@ -2778,13 +2778,13 @@ button:focus {
   color: #fff;
 }
 .testimonials-1.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/testimonials-1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/testimonials-1.jpg);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
 }
 .testimonials-1.image-bg {
-  background: url(../images/testimonials-1.jpg);
+  background: url(http://campbellhc.github.io/engagehireclix/images/testimonials-1.jpg);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -2844,11 +2844,11 @@ button:focus {
 }
 /******************** TESTIMONIALS 2 ********************/
 .testimonials-2.image-bg {
-  background: url(../images/testimonials-2.jpg) no-repeat center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/testimonials-2.jpg) no-repeat center top;
   background-size: cover;
 }
 .testimonials-2.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/testimonials-2.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/testimonials-2.jpg) no-repeat center top;
   background-size: cover;
 }
 .testimonials-2.transparent-overlay .client-name {
@@ -2964,7 +2964,7 @@ button:focus {
   padding-bottom: 200px;
 }
 .testimonials-5.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/photography-bg-2.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/photography-bg-2.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -3051,7 +3051,7 @@ button:focus {
 }
 /******************** DOWNLAOD APP 3 ********************/
 .download-app-3.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/testimonials-1.jpg) no-repeat center bottom;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/testimonials-1.jpg) no-repeat center bottom;
   background-size: cover;
 }
 /*
@@ -3168,11 +3168,11 @@ button:focus {
   padding-top: 120px;
 }
 .recap-gallery.image-bg {
-  background: url(../images/event-bg-1.jpg) center center;
+  background: url(http://campbellhc.github.io/engagehireclix/images/event-bg-1.jpg) center center;
   background-size: cover;
 }
 .recap-gallery.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/event-bg-1.jpg) center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/event-bg-1.jpg) center center;
   background-size: cover;
 }
 .recap-gallery-item {
@@ -3509,11 +3509,11 @@ button:focus {
   color: #fff;
 }
 .join-us.image-bg {
-  background: url(../images/join-us.jpg);
+  background: url(http://campbellhc.github.io/engagehireclix/images/join-us.jpg);
   background-size: cover;
 }
 .join-us.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/join-us.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/join-us.jpg);
   background-size: cover;
 }
 .join-us .sub-heading {
@@ -3533,11 +3533,11 @@ button:focus {
 }
 /******************** SPONSORS 2 ********************/
 .sponsors-2.image-bg {
-  background: url(../images/event-bg-1.jpg) center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/event-bg-1.jpg) center top;
   background-size: cover;
 }
 .sponsors-2.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/event-bg-1.jpg) center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/event-bg-1.jpg) center top;
   background-size: cover;
 }
 .sponsors-2 .client-logo {
@@ -3807,7 +3807,7 @@ button:focus {
   padding-bottom: 350px;
 }
 .contact-us-1.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../images/photography-bg-3.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(http://campbellhc.github.io/engagehireclix/images/photography-bg-3.jpg);
   background-size: cover;
   background-position: center top;
 }
