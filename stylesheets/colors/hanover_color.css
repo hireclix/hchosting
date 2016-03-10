@@ -21,9 +21,7 @@ a {
 .shape-bg {
   background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
 }
-.gradient-bg {
-  background-image: linear-gradient(to bottom right, #7BAA38, #7BAA38);
-}
+
 .icon-border-1 {
   border: 1px solid #7BAA38;
 }
@@ -72,7 +70,7 @@ a {
 }
 /******************** SECTION STYLES ********************/
 .gradient-overlay:before {
-  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.23));
+  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.23), rgba(117, 169, 50, 0.23));
 }
 .transparent-overlay:before {
   background-image: linear-gradient(to bottom right, rgba(117, 169, 50, 0.9), rgba(117, 169, 50, 0.9));
