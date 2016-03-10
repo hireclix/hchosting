@@ -2782,13 +2782,13 @@ button:focus {
   color: #fff;
 }
 .testimonials-1.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/testimonials-1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/hanovertestimonials-1.jpg);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
 }
 .testimonials-1.image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/testimonials-1.jpg);
+  background: url(http://campbellhc.github.io/engagehireclix/images/hanovertestimonials-1.jpg);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
