@@ -5,7 +5,7 @@
 */
 /*
 	BASE COLOR CODE: #00B9F2
-	BASE COLOR END (FOR GRADIENT): #00599A
+	BASE COLOR END (FOR GRADIENT): #00B9F2
 	HOVER COLOR: #005885
 */
 /******************** GLOBAL STYLES ********************/
@@ -19,10 +19,10 @@ a {
   fill: #00B9F2;
 }
 .shape-bg {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .gradient-bg {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .icon-border-1 {
   border: 1px solid #00B9F2;
@@ -31,7 +31,7 @@ a {
   border: 2px solid #00B9F2;
 }
 .btn-base {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .btn-base:after {
   background: #005885;
@@ -53,7 +53,7 @@ a {
   color: #00B9F2;
 }
 .tab-btn li.active a {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .filter-buttons .active {
   color: #00B9F2;
@@ -68,7 +68,7 @@ a {
   color: #00B9F2;
 }
 .navbar-toggle {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 /******************** SECTION STYLES ********************/
 .gradient-overlay:before {
@@ -99,7 +99,7 @@ a {
   background-color: #00B9F2;
 }
 .event-info {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .event-info.white-bg {
   color: #00B9F2;
@@ -118,7 +118,7 @@ a {
   border-color: #00B9F2;
 }
 .select-radio input[type="radio"]:checked + label {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .select-outer:after {
   border-color: #00B9F2 transparent transparent;
@@ -177,7 +177,7 @@ a {
 }
 .feature-side-content.active .icon-shape,
 .feature-side-content:hover .icon-shape {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 /******************** GALLERY STYLE ********************/
 .gallery-img-pop .hover-effect {
@@ -209,20 +209,20 @@ a {
   border-left: 2px solid #00B9F2;
 }
 .post-preview .post-type {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .post-preview .category {
   color: #00B9F2;
 }
 .speakers-1 .speaker-intro .icon-collapsed {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 /******************** PRICING TABLE ********************/
 .pricing-table-1 .price {
   color: #00B9F2;
 }
 .pricing-table-1 .featured .pricing-element {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .pricing-table-2 .pricing-element .price {
   border: 2px solid #00B9F2;
@@ -235,19 +235,19 @@ a {
   color: #00B9F2;
 }
 .pricing-table-2 .pricing-element.featured .price {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .pricing-table-2 .pricing-element.featured .btn-trans {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .pricing-table-2 .pricing-element.featured .btn-trans:hover {
-  background-image: linear-gradient(to bottom right, #00599A, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .pricing-element-3 .price {
   color: #00B9F2;
 }
 .pricing-element-3.featured {
-  background-image: linear-gradient(to bottom right, #00B9F2, #00599A);
+  background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 /******************** SCREENSHOTS ********************/
 .screenshots-2 .screen-title {
