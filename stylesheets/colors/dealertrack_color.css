@@ -6,7 +6,7 @@
 /*
 	BASE COLOR CODE: #00B9F2
 	BASE COLOR END (FOR GRADIENT): #00B9F2
-	HOVER COLOR: #005885
+	HOVER COLOR: #00B9F2
 */
 /******************** GLOBAL STYLES ********************/
 a {
@@ -34,7 +34,7 @@ a {
   background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .btn-base:after {
-  background: #005885;
+  background: #00B9F2;
 }
 .btn-trans {
   color: #00B9F2;
@@ -46,8 +46,8 @@ a {
 .btn-trans:hover,
 .btn-trans:focus,
 .btn-trans:active {
-  background-color: #005885;
-  border-color: #005885;
+  background-color: #00B9F2;
+  border-color: #00B9F2;
 }
 .btn-white {
   color: #00B9F2;
