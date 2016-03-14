@@ -119,7 +119,7 @@
 */
 /******************** TYPOGRAPHY ********************/
 body {
-  color: #616161;
+  color: ##58595B;
   overflow-x: hidden;
 }
 @media (min-width: 1920px) {
@@ -135,7 +135,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #272727;
+  color: #58595B;
 }
 ul {
   padding: 0;
@@ -181,7 +181,7 @@ a:focus {
   font-weight: 500;
 }
 .text-dark {
-  color: #272727;
+  color: ##58595B;
 }
 strong {
   font-weight: 500;
