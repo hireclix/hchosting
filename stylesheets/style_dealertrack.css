@@ -701,6 +701,10 @@ button:focus {
   padding-top: 75px;
   padding-bottom: 75px;
 }
+.padding-100-50 {
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
 .padding-125-125 {
   padding-top: 125px;
   padding-bottom: 125px;
