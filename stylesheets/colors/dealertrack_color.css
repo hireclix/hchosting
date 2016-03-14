@@ -62,7 +62,7 @@ a {
 .navbar-nemo .navbar-nav > li > a:hover,
 .navbar-nemo .navbar-nav > li > a:focus {
   color: #008ed6;
-  background-color: transparent;
+  background-color: #242322;
 }
 .navbar-nemo .navbar-nav > .active > a {
   color: #008ed6;
