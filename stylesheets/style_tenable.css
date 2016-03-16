@@ -3230,13 +3230,13 @@ button:focus {
 |----------------------------------------------------------------------------
 */
 .faqs-2-items .title-text {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 .faqs-2-items p:last-child {
   margin-bottom: 0;
 }
 .faqs-2-items .mb50 {
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 /*
 |----------------------------------------------------------------------------
