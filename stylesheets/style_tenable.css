@@ -1631,14 +1631,14 @@ button:focus {
   }
 }
 .app-home-1 .logo-home {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .app-home-1 .heading-text {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 .app-home-1 .sub-heading {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 .app-home-1 .img-responsive {
   width: 100%;
