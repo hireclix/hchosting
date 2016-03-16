@@ -3542,9 +3542,7 @@ button:focus {
 .sponsors-1 .client-logo {
   margin-bottom: 16px;
 }
-.sponsors-1 .client-logo img {
-  opacity: 0.4;
-}
+
 /******************** SPONSORS 2 ********************/
 .sponsors-2.image-bg {
   background: url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable-work.gif) center top;
