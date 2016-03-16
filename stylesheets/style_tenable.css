@@ -1622,7 +1622,7 @@ button:focus {
 }
 /******************** APP HOME ********************/
 .app-home-1 {
-  padding-top: 140px;
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 @media (min-width: 992px) {
