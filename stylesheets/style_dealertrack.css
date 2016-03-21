@@ -504,7 +504,7 @@ button:focus {
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/Dealertrack/earthlings.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(http://campbellhc.github.io/engagehireclix/images/Dealertrack/earthlings.jpg);
   background-position: center top;
   background-size: cover;
 }
