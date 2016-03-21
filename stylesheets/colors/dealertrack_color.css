@@ -165,7 +165,7 @@ a {
 }
 /******************** DESCRIPTIONS ********************/
 .desc-title .title-element {
-  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.9), rgba(0, 89, 154, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.9), rgba(0, 85, 242, 0.9));
 }
 .objective-time {
   color: #00B9F2;
@@ -181,20 +181,20 @@ a {
 }
 /******************** GALLERY STYLE ********************/
 .gallery-img-pop .hover-effect {
-  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.7), rgba(0, 89, 154, 0.7));
+  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.7), rgba(0, 85, 242, 0.7));
 }
 /******************** OTHERS ********************/
 .speakers-1 .speaker-intro figcaption {
   border-top: 3px solid #00B9F2;
 }
 .img-hover-content:hover .img-intro {
-  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0), rgba(0, 89, 154, 0));
+  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0), rgba(0, 85, 242, 0));
 }
 .img-hover-content .overlay-content {
-  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.9), rgba(0, 89, 154, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.9), rgba(0, 85, 242, 0.9));
 }
 .img-hover-content .img-intro {
-  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.2), rgba(0, 89, 154, 0.2));
+  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.2), rgba(0, 85, 242, 0.2));
 }
 .img-hover-content .btn-trans:hover {
   color: #00B9F2;
@@ -264,7 +264,7 @@ a {
   background-color: #00B9F2;
 }
 .blockquote-gradient-bg {
-  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.9), rgba(0, 89, 154, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 89, 154, 0.9), rgba(0, 85, 242, 0.9));
 }
 /******************** FOOTER STYLES ********************/
 .footers .socialize .icon:hover {
