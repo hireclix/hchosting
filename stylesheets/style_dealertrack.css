@@ -2386,13 +2386,13 @@ button:focus {
 }
 .resraurant-description-1 .container {
   padding-top: 98px;
-  padding-bottom: 0px;
+  padding-bottom: 50px;
 }
 .resraurant-description-1 .title-text {
   margin-bottom: 18px;
 }
 .resraurant-description-1 .list-block {
-  margin-bottom: 45px;
+  margin-bottom: 5px;
 }
 @media (min-width: 992px) {
   .resraurant-description-1 {
