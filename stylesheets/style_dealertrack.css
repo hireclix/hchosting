@@ -366,6 +366,13 @@ button:focus {
 .btn-trans {
   background-color: #fff;
 }
+.btn-trans a:hover {
+  color: #00B9F2;
+  text-decoration: none;
+}
+.btn-trans a:hover .icon svg {
+  fill: #00B9F2;
+}
 .btn-trans:hover,
 .btn-trans:focus,
 .btn-trans:active {
