@@ -50,7 +50,8 @@ a {
   border-color: #00B9F2;
 }
 .btn-white {
-  color: #FFFFFF;
+  color: #F7F7F7;
+  border: 2px solid #00B9F2;
 }
 .tab-btn li.active a {
   background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
