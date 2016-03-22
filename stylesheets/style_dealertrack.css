@@ -2386,7 +2386,7 @@ button:focus {
 }
 .resraurant-description-1 .container {
   padding-top: 98px;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
 }
 .resraurant-description-1 .title-text {
   margin-bottom: 18px;
