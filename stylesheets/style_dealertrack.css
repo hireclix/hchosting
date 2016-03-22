@@ -363,10 +363,14 @@ button:focus {
   padding-top: 9px;
   padding-bottom: 9px;
 }
+.btn-trans {
+  background-color: #fff;
+}
 .btn-trans:hover,
 .btn-trans:focus,
 .btn-trans:active {
-  color: #00B9F2;
+  color: #FFFFFF;
+  background-color: #00B9F2;
 }
 .btn-secondary {
   border-color: #efefef;
