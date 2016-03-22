@@ -701,6 +701,10 @@ button:focus {
   padding-top: 75px;
   padding-bottom: 75px;
 }
+.padding-25-5 {
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
 .padding-25-0 {
   padding-top: 25px;
   padding-bottom: 0px;
@@ -2386,7 +2390,7 @@ button:focus {
 }
 .resraurant-description-1 .container {
   padding-top: 98px;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
 }
 .resraurant-description-1 .title-text {
   margin-bottom: 18px;
