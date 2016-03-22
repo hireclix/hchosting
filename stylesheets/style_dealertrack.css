@@ -148,7 +148,7 @@ a {
   transition: all 0.3s;
 }
 a:hover {
-  color: #FFFFFF;
+  color: #00599A;
   text-decoration: none;
 }
 a:hover .icon svg {
