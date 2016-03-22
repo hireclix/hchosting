@@ -2095,7 +2095,7 @@ button:focus {
   bottom: calc(-100% + 100px);
 }
 .photography-features .img-hover-content .img-intro {
-  height: 100px;
+  height: 50px;
 }
 .photography-features .img-hover-content .img-desc {
   padding: 22px;
