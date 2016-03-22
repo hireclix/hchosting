@@ -50,13 +50,19 @@ a {
   border-color: #00B9F2;
 }
 .btn-white {
-  color: #00B9F2;
+  color: #FFFFFF;
 }
 .tab-btn li.active a {
   background-image: linear-gradient(to bottom right, #00B9F2, #00B9F2);
 }
 .filter-buttons .active {
   color: #00B9F2;
+}
+.btn-white:hover,
+.btn-white:focus,
+.btn-white:active {
+  background-color: #00B9F2;
+  border-color: #00B9F2;
 }
 /******************** NAVBAR STYLE ********************/
 .navbar-nemo .navbar-nav > li > a:hover,
