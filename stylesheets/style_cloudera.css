@@ -701,7 +701,30 @@ button:focus {
   padding-top: 75px;
   padding-bottom: 75px;
 }
-
+.padding-5-25 {
+  padding-top: 5px;
+  padding-bottom: 25px;
+}
+.padding-25-5 {
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
+.padding-25-0 {
+  padding-top: 25px;
+  padding-bottom: 0px;
+}
+.padding-0-25 {
+  padding-top: 0px;
+  padding-bottom: 25px;
+}
+.padding-25-25 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.padding-50-50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 .padding-0-50 {
   padding-top: 0px;
   padding-bottom: 50px;
@@ -714,7 +737,6 @@ button:focus {
   padding-top: 100px;
   padding-bottom: 50px;
 }
-
 .padding-125-125 {
   padding-top: 125px;
   padding-bottom: 125px;
