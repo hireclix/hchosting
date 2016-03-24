@@ -303,6 +303,7 @@ button:focus {
 .btn:focus,
 .btn:active {
   box-shadow: none;
+  color: #FFFFFF;
 }
 .btn-rectangle {
   border-radius: 4px;
