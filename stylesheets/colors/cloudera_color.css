@@ -48,6 +48,7 @@ a {
 .btn-trans:active {
   background-color: #004C73;
   border-color: #004C73;
+  color: #FFFFFF;
 }
 .btn-white {
   color: #29A7DE;
