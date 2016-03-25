@@ -535,7 +535,7 @@ button:focus {
   background-color: #fff;
 }
 .white-bg .secondary-color-bg {
-  background-color: #333333;
+  background-color: #F7F7F7;
 }
 .white-bg .input-group-big .secondary-color-bg {
   border-color: #f7f7f7;
@@ -548,7 +548,7 @@ button:focus {
   background-color: #f7f7f7;
 }
 .secondary-bg {
-  background-color: #f7f7f7;
+  background-color: #333333;
 }
 .secondary-bg .secondary-color-bg {
   background-color: #fff;
