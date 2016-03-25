@@ -550,6 +550,9 @@ button:focus {
 .secondary-bg {
   background-color: #333333;
 }
+.secondary-bg2 {
+  background-color: #77C043;
+}
 .secondary-bg .secondary-color-bg {
   background-color: #fff;
 }
