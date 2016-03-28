@@ -609,7 +609,7 @@ button:focus {
 }
 /******************** SECTION HEADING ********************/
 .section-heading {
-  margin-bottom: 34px;
+  margin-bottom: 0px;
 }
 .section-heading .heading-text {
   margin-top: 0;
