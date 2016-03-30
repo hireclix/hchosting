@@ -1810,8 +1810,8 @@ button:focus {
 }
 /******************** PHOTOGRAPHY HOME ********************/
 .photography-home {
-  padding-top: 375px;
-  padding-bottom: 325px;
+  padding-top: 175px;
+  padding-bottom: 125px;
 }
 .photography-home.image-bg {
   background: url(http://campbellhc.github.io/engagehireclix/images/tenable/oculus-bw.jpg);
