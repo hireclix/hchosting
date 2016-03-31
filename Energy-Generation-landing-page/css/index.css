@@ -1,0 +1,298 @@
+.version.index /* version checker */
+{
+	color: #000004;
+	background-color: #EC918E;
+}
+
+.html
+{
+	background: #FFFFFF url("http://campbellhc.github.io/engagehireclix/Energy-Generation-landing-page/images/595349765_flipped-cropped-3.jpg") no-repeat left top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 437.95000000000005px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.144);
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.8);
+	padding-bottom: 41.049999999999955px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u285
+{
+	z-index: 25;
+	width: 960px;
+	background-color: transparent;
+	position: relative;
+}
+
+#pu160-23
+{
+	width: 0.01px;
+	margin-left: 23px;
+	margin-top: 38px;
+}
+
+#u160-23
+{
+	z-index: 2;
+	width: 608px;
+	min-height: 583px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u160-4,#u160-6,#u160-12,#u160-18,#u160-20,#u160-21
+{
+	font-size: 18px;
+	line-height: 23px;
+	padding-top: 10px;
+	color: #626469;
+}
+
+#u298
+{
+	z-index: 27;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 616px;
+}
+
+#buttonu338
+{
+	z-index: 31;
+	width: 193px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	padding-bottom: 8px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 112px;
+	left: 637px;
+}
+
+#buttonu338:hover
+{
+	background-color: #FFFFFF;
+	width: 193px;
+	min-height: 0px;
+	margin: 112px -10000px 0px 0px;
+}
+
+#buttonu338:active
+{
+	background-color: #FFFFFF;
+	width: 193px;
+	min-height: 0px;
+	margin: 112px -10000px 0px 0px;
+}
+
+#buttonu338.ButtonSelected
+{
+	background-color: transparent;
+	width: 193px;
+	min-height: 0px;
+	margin: 112px -10000px 0px 0px;
+}
+
+#u339-4
+{
+	z-index: 32;
+	width: 181px;
+	min-height: 28px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 7px;
+}
+
+#buttonu338:hover #u339-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	width: 181px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#buttonu338:active #u339-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	width: 181px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#buttonu338.ButtonSelected #u339-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	width: 181px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#buttonu338:hover #u339-4 p
+{
+	color: #3DCD58;
+	visibility: inherit;
+}
+
+#buttonu338:active #u339-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu338.ButtonSelected #u339-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u328
+{
+	z-index: 29;
+	width: 916px;
+	background-color: transparent;
+	margin-left: 23px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u526
+{
+	z-index: 36;
+	width: 149px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 406px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#pu530
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u530
+{
+	z-index: 37;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 3px;
+}
+
+#u532
+{
+	z-index: 43;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu533
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 54px;
+}
+
+#u533
+{
+	z-index: 39;
+	width: 15px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 12px;
+}
+
+#u529
+{
+	z-index: 44;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu527
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 109px;
+}
+
+#u527
+{
+	z-index: 41;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u535
+{
+	z-index: 45;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.ie #u532,.ie #u529,.ie #u535
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
