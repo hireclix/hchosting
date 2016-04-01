@@ -264,7 +264,7 @@ a {
   background-color: #008ed6;
 }
 .blockquote-gradient-bg {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.9), rgba(3, 124, 185, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0,165,181, 0.9), rgba(0,165,181, 0.9));
 }
 /******************** FOOTER STYLES ********************/
 .footers .socialize .icon:hover {
