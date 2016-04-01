@@ -1721,8 +1721,8 @@ button:focus {
 }
 /******************** EVENT HOME 1 ********************/
 .event-home-1 {
-  padding-top: 150px;
-  padding-bottom: 207px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .event-home-1.image-bg {
   background: url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable-uk-base-header-image.jpg) no-repeat center top;
