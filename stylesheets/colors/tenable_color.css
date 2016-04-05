@@ -58,6 +58,34 @@ a {
 .filter-buttons .active {
   color: #0AA6B5;
 }
+/******************** BTN 2 ********************/
+.btn2-base {
+  background-image: linear-gradient(to bottom right, #FF8300, #FF8300);
+}
+.btn2-base:after {
+  background: #425363;
+}
+.btn2-trans {
+  color: #FF8300;
+  border: 2px solid #FF8300;
+}
+.btn2-trans .icon {
+  fill: FF8300;
+}
+.btn2-trans:hover,
+.btn2-trans:focus,
+.btn2-trans:active {
+  background-color: #425363;
+  border-color: #425363;
+}
+.btn2-white {
+  color: #FF8300;
+}
+.tab-btn2 li.active a {
+  background-image: linear-gradient(to bottom right, #FF8300, #FF8300);
+}
+
+
 /******************** NAVBAR STYLE ********************/
 .navbar-nemo .navbar-nav > li > a:hover,
 .navbar-nemo .navbar-nav > li > a:focus {
