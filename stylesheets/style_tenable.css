@@ -1729,7 +1729,7 @@ button:focus {
   background-size: cover;
 }
 .event-home-1.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable-uk-base-header-image.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable-uk-base-header-image.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-1 .logo-home {
