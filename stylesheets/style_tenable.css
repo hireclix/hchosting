@@ -425,6 +425,150 @@ button:focus {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+/*
+|----------------------------------------------------------------------------
+| Button 2
+|----------------------------------------------------------------------------
+*/
+.btn2 {
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 27px;
+  box-shadow: none;
+  transition: all 0.3s;
+  border: 0;
+}
+.btn2:hover {
+  box-shadow: none;
+}
+.btn2:focus,
+.btn2:active {
+  box-shadow: none;
+}
+.btn2-rectangle {
+  border-radius: 4px;
+}
+.btn2-rectangle:after {
+  border-radius: 4px !important;
+}
+.btn2-base {
+  color: #fff;
+  border-color: transparent;
+  position: relative;
+  z-index: 1;
+}
+.btn2-base:hover,
+.btn2-base:focus,
+.btn2-base:active {
+  color: #fff;
+}
+.btn2-base:hover:after {
+  opacity: 1;
+}
+.btn2-base span {
+  position: relative;
+  z-index: 3;
+}
+.btn2-base .icon svg {
+  fill: #fff !important;
+}
+.btn2-base:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 27px;
+  transition: opacity 0.5s;
+  z-index: 2;
+  opacity: 0;
+}
+.btn2-white {
+  background-color: #fff;
+}
+.btn2-white:hover,
+.btn2-white:focus,
+.btn2-white:active {
+  color: #425363;
+}
+.btn2-trans.btn-lg {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.btn2-trans.btn-md {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.btn2-trans.btn-sm {
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+.btn2-trans:hover,
+.btn2-trans:focus,
+.btn2-trans:active {
+  color: #fff;
+}
+.btn2-secondary {
+  border-color: #efefef;
+  color: #425363;
+}
+.btn2-icon {
+  padding: 16px 38px;
+}
+.btn2-icon .media-left,
+.btn2-icon .media-body {
+  width: auto;
+  vertical-align: middle;
+}
+.btn2-icon .media-left {
+  padding-right: 15px;
+}
+.btn2-icon .icon svg {
+  width: 60px;
+  height: 60px;
+}
+.btn2-icon .small-text {
+  font-size: 18px;
+}
+.btn2-icon .big-text {
+  font-size: 28px;
+}
+.btn2-icon .small-text,
+.btn2-icon .big-text {
+  display: block;
+  text-align: left;
+  font-weight: 500;
+}
+.buttons-group .btn2 {
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media (min-width: 992px) {
+  .buttons-group li {
+    display: inline-block;
+  }
+}
+.btn2-lg {
+  padding: 17px 35px;
+}
+.btn2-md {
+  padding: 10px 35px;
+}
+.btn2-sm {
+  padding: 11px 20px;
+  min-width: auto;
+  font-size: 18px;
+}
+.btn2-block {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
 /*
 |----------------------------------------------------------------------------
 | SECTION STYLE
