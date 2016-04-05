@@ -434,6 +434,7 @@ button:focus {
 .btn2 {
   font-size: 20px;
   font-weight: 500;
+  font-color: #425363;
   border-radius: 27px;
   box-shadow: none;
   transition: all 0.3s;
