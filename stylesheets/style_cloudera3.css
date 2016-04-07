@@ -500,12 +500,12 @@ button:focus {
   color: #fff;
 }
 .image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/cloudera/background3.jpg);
+  background: url(http://campbellhc.github.io/engagehireclix/images/cloudera/background4.jpg);
   background-position: center top;
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(http://campbellhc.github.io/engagehireclix/images/cloudera/background3.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(http://campbellhc.github.io/engagehireclix/images/cloudera/background4.jpg);
   background-position: center top;
   background-size: cover;
 }
