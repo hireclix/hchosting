@@ -2946,7 +2946,7 @@ button:focus {
 /******************** TESTIMONIAL 4 ********************/
 .testimonials-4 .testimonial-item {
   position: relative;
-  min-height: 500px;
+  min-height: 450px;
   padding: 75px 30px 15px;
   border-radius: 4px;
   margin-top: 50px;
