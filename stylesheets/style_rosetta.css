@@ -3818,7 +3818,7 @@ button:focus {
 /******************** CONTACT US -1 ********************/
 .contact-us-1 {
   padding-top: 125px;
-  padding-bottom: 350px;
+  padding-bottom: 125px;
 }
 .contact-us-1.image-bg {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(http://campbellhc.github.io/engagehireclix/images/photography-bg-3.jpg);
