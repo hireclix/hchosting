@@ -972,13 +972,8 @@ button:focus {
   padding-left: 0;
   padding-right: 20px;
   padding-bottom: 10px;
-  border-color: transparent;
 }
-.contact-form-popup .form-control:focus,
-.contact-form-popup .form-control:hover,
-.contact-form-popup .form-control :active {
-  border-color: transparent;
-}
+
 .table-form > tbody > tr > th,
 .table-form > tbody > tr > td {
   padding-left: 20px;
@@ -986,14 +981,7 @@ button:focus {
   padding-bottom: 0;
   border: 1px solid #efefef;
 }
-.table-form > tbody > tr > th:first-child,
-.table-form > tbody > tr > td:first-child {
-  border-left-color: transparent;
-}
-.table-form > tbody > tr > th:last-child,
-.table-form > tbody > tr > td:last-child {
-  border-right-color: transparent;
-}
+
 /******************** FORM UNDERLINED ********************/
 .form-underlined {
   position: relative;
