@@ -942,7 +942,7 @@ button:focus {
 }
 .contact-form-popup {
   background-color: #fff;
-  padding: 134px 0 158px;
+  padding: 0px 0 50px;
   border-radius: 4px;
   margin-left: auto;
   margin-right: auto;
