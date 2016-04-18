@@ -952,7 +952,7 @@ button:focus {
 }
 @media (min-width: 768px) {
   .contact-form-popup {
-    max-width: 650px;
+    max-width: 1250px;
   }
 }
 .contact-form-popup .heading-text {
