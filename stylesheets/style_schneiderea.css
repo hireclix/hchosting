@@ -119,7 +119,7 @@
 */
 /******************** TYPOGRAPHY ********************/
 body {
-  color: #616161;
+  color: #626469;
   overflow-x: hidden;
 }
 @media (min-width: 1920px) {
@@ -135,7 +135,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #272727;
+  color: #3DCD58;
 }
 ul {
   padding: 0;
