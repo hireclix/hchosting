@@ -951,6 +951,7 @@ button:focus {
 @media (min-width: 768px) {
   .contact-form-popup {
     max-width: 1250px;
+    background-color: #fff;
   }
 }
 .contact-form-popup .heading-text {
