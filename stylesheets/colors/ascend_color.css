@@ -72,16 +72,16 @@ a {
 }
 /******************** SECTION STYLES ********************/
 .gradient-overlay:before {
-  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.23), rgba(0, 142, 214, 0.23));
+  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.23), rgba(0, 60, 113, 0.23));
 }
 .transparent-overlay:before {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.9), rgba(0, 142, 214, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0.9), rgba(0, 60, 113, 0.9));
 }
 .polygon-bg {
   background-image: url(../../images/polygon-bg/blue.jpg);
 }
 .video-bg:before {
-  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.75), rgba(0, 142, 214, 0.75));
+  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.75), rgba(0, 60, 113, 0.75));
 }
 .section-heading .lines {
   border-top: 2px solid #B7BF10;
@@ -127,7 +127,7 @@ a {
   color: #B7BF10;
 }
 .form-widget .btn-trans {
-  background-color: rgba(0, 142, 214, 0.05);
+  background-color: rgba(0, 60, 113, 0.05);
 }
 .select-item input[type="checkbox"]:before {
   border: 2px solid #B7BF10;
@@ -165,7 +165,7 @@ a {
 }
 /******************** DESCRIPTIONS ********************/
 .desc-title .title-element {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.9), rgba(3, 124, 185, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0.9), rgba(0, 60, 113, 0.9));
 }
 .objective-time {
   color: #B7BF10;
@@ -181,20 +181,20 @@ a {
 }
 /******************** GALLERY STYLE ********************/
 .gallery-img-pop .hover-effect {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.7), rgba(3, 124, 185, 0.7));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0.7), rgba(0, 60, 113, 0.7));
 }
 /******************** OTHERS ********************/
 .speakers-1 .speaker-intro figcaption {
   border-top: 3px solid #B7BF10;
 }
 .img-hover-content:hover .img-intro {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0), rgba(3, 124, 185, 0));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0), rgba(0, 60, 113, 0));
 }
 .img-hover-content .overlay-content {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.9), rgba(3, 124, 185, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0.9), rgba(0, 60, 113, 0.9));
 }
 .img-hover-content .img-intro {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.2), rgba(3, 124, 185, 0.2));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0.2), rgba(0, 60, 113, 0.2));
 }
 .img-hover-content .btn-trans:hover {
   color: #B7BF10;
@@ -264,7 +264,7 @@ a {
   background-color: #B7BF10;
 }
 .blockquote-gradient-bg {
-  background-image: linear-gradient(to bottom right, rgba(0, 142, 214, 0.9), rgba(3, 124, 185, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(0, 60, 113, 0.9), rgba(0, 60, 113, 0.9));
 }
 /******************** FOOTER STYLES ********************/
 .footers .socialize .icon:hover {
