@@ -148,11 +148,11 @@ a {
   transition: all 0.3s;
 }
 a:hover {
-  color: #005984;
+  color: #29A7DE;
   text-decoration: none;
 }
 a:hover .icon svg {
-  fill: #005984;
+  fill: #29A7DE;
 }
 a:focus {
   text-decoration: none;
