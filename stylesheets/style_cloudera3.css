@@ -3205,11 +3205,11 @@ button:focus {
   padding-top: 120px;
 }
 .recap-gallery.image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/cloudera/techworkers2.jpg) center center;
+  background: url(http://campbellhc.github.io/engagehireclix/images/cloudera/team-looking-at-work-on-tablet.jpg) center center;
   background-size: cover;
 }
 .recap-gallery.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/cloudera/techworkers2.jpg) center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/cloudera/team-looking-at-work-on-tablet.jpg) center center;
   background-size: cover;
 }
 .recap-gallery-item {
@@ -3570,11 +3570,11 @@ button:focus {
 }
 /******************** SPONSORS 2 ********************/
 .sponsors-2.image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/cloudera/techworkers2.jpg) center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/cloudera/team-looking-at-work-on-tablet.jpg) center top;
   background-size: cover;
 }
 .sponsors-2.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/cloudera/techworkers2.jpg) center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/cloudera/team-looking-at-work-on-tablet.jpg) center top;
   background-size: cover;
 }
 .sponsors-2 .client-logo {
