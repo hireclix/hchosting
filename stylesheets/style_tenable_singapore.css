@@ -1870,11 +1870,11 @@ button:focus {
   padding-bottom: 50px;
 }
 .event-home-1.image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable-uk-base-header-image.jpg) no-repeat center top;
+  background: url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable_singapore.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-1.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable-uk-base-header-image.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable_singapore.jpg) no-repeat center top;
   background-size: cover;
 }
 .event-home-1 .logo-home {
