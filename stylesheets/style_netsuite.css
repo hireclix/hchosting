@@ -148,11 +148,11 @@ a {
   transition: all 0.3s;
 }
 a:hover {
-  color: #04a878;
+  color: #fff;
   text-decoration: none;
 }
 a:hover .icon svg {
-  fill: #04a878;
+  fill: #fff;
 }
 a:focus {
   text-decoration: none;
@@ -2980,11 +2980,11 @@ button:focus {
 }
 /******************** TESTIMONIALS 5 ********************/
 .testimonials-5 {
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .testimonials-5.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://raw.githubusercontent.com/hireclix/hrhosting/gh-pages/images/netsuite/wall-smaller.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/netsuite/People-crop.jpg);
   background-position: center center;
   background-size: cover;
 }
