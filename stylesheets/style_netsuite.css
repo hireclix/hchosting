@@ -1886,7 +1886,7 @@ button:focus {
   margin-bottom: 0;
 }
 .grid-border .item {
-  padding-bottom: 50px;
+  padding-bottom: 0px;
   position: relative;
   transition: all 0.3s;
 }
@@ -1908,13 +1908,13 @@ button:focus {
   .grid-border .item:after {
     bottom: 0;
     left: 0;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
     width: 100%;
   }
   .grid-border .item:before {
     left: 0;
     top: 0;
-    border-left: 1px solid rgba(0, 0, 0, 0.08);
+    border-left: 1px solid rgba(255, 255, 255, 1);
     height: 100%;
   }
 }
@@ -1933,20 +1933,26 @@ button:focus {
   }
 }
 @media (min-width: 992px) {
-  .grid-border .item:nth-child(n + 4) {
+  .grid-border .item:nth-child(n + 5) {
     padding-top: 50px;
   }
-  .grid-border .item:nth-child(3n + 1):before {
+  .grid-border .item:nth-child(4n + 1):before {
     border-color: transparent;
   }
-  .grid-border .item:nth-last-child(-n + 3) {
+  .grid-border .item:nth-last-child(-n + 4) {
     padding-bottom: 0;
   }
-  .grid-border .item:nth-last-child(-n + 3):after {
+  .grid-border .item:nth-last-child(-n + 4):after {
     border-color: transparent;
   }
+    .grid-border .item:before {
+    left: 0;
+    top: 0;
+    border-left: 1px solid rgba(255, 255, 255, 1);
+    height: 75%;
+  }
 }
-/******************** APP FEATURES 4 ********************/
+/******************** APP FEATURES 4 ********************/ 
 .feature-side-content .icon-shape {
   margin-top: 3px;
   transition: all 0.3s;
@@ -2978,7 +2984,7 @@ button:focus {
   padding-bottom: 200px;
 }
 .testimonials-5.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(http://campbellhc.github.io/engagehireclix/images/netsuite/EntrepSpirit-banner-min.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://raw.githubusercontent.com/hireclix/hrhosting/gh-pages/images/netsuite/wall-smaller.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -3976,4 +3982,58 @@ button:focus {
   width: 100% \9;
   max-width: 100%;
   height: auto;
+}
+
+.blue-bg {
+    background-color: #009ddc;
+    color: #fff !important;
+}
+
+.blue-bg .section-heading .lines {
+    border-top: 2px solid #fff !important;
+}
+
+.blue-bg .section-heading .lines:before, .blue-bg .section-heading .lines:after {
+    border-top: 2px solid #fff !important;
+}
+
+.sm-white {
+    max-width: 150px;
+    border-width: 2px;
+}
+
+.blue-bg .section-heading {
+    padding-top: 0px !important;
+}
+
+.blue-bg .feature-item {
+    min-height: 200px;
+}
+
+.blue-bg .item .title-text {
+    color: #fff;
+}
+
+.blue-bg .hover {
+    display: none;
+}
+
+.blue-bg .item:hover {
+    background-color: #fff;
+    color: #5d5d5d !important;
+}
+
+.blue-bg .item:hover .title-text {
+    color: #5d5d5d;
+}
+
+.blue-bg .item:hover p {
+    display:none
+}
+.blue-bg .item:hover .hover  {
+    display: inherit;
+}
+
+.grid-border {
+    padding-bottom: 50px;
 }
