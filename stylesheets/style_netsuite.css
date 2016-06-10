@@ -2983,6 +2983,13 @@ button:focus {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+
+@media (min-width: 992px) {
+    .testimonials-5 {
+        height: 1000px;
+    }
+}
+
 .testimonials-5.image-bg {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/netsuite/People-crop.jpg);
   background-position: center center;
