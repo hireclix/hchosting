@@ -4101,3 +4101,7 @@ button:focus {
 .job-desc ul {
     padding-left:40px
 }
+
+.logo-home img {
+    width: 130px;
+}
