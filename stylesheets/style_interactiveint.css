@@ -148,13 +148,20 @@ a {
   transition: all 0.3s;
 }
 a:hover {
-  color: #04a878;
+  color: #337ab7;
   text-decoration: none;
 }
+
+a:active {
+  color: #337ab7;
+  text-decoration: none; 
+}
+
 a:hover .icon svg {
   fill: #04a878;
 }
 a:focus {
+  color: #337ab7;
   text-decoration: none;
 }
 .link {
@@ -169,7 +176,7 @@ a:focus {
   margin-top: 0;
 }
 .small-text {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
 }
 .text-big {
@@ -499,7 +506,7 @@ button:focus {
   color: #fff;
 }
 .image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/inin/mountain2.jpg);
+  background: url(http://hireclix.github.io/hchosting/images/inin/Don-on-rock-climbing-wall_OPT.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -3977,3 +3984,8 @@ button:focus {
   max-width: 100%;
   height: auto;
 }
+
+
+/* Custom (added 6/13/16) */
+
+
