@@ -504,7 +504,7 @@ button:focus {
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/rosetta_stone/855c85fa-db4a-4393-8091-2ee89f1ea6a3-large.jpeg);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
   background-position: center top;
   background-size: cover;
 }
@@ -1670,7 +1670,7 @@ button:focus {
 }
 /******************** APP HOME 3 ********************/
 .app-home-3 {
-  padding: 150px 0 200px;
+  padding: 75px 0 200px;
 }
 .app-home-3 .logo-home {
   margin-bottom: 80px;
@@ -3977,4 +3977,33 @@ button:focus {
   width: 100% \9;
   max-width: 100%;
   height: auto;
+}
+
+/* Custom (added 6/13/16) */
+
+#video-landing {
+  height: 850px;
+  position: relative;
+  overflow-y: hidden;
+  overflow-x: hidden !important;
+  color: white;
+}
+
+#video-landing video {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -100;
+}
+
+#video-landing h1{
+ 	font-size: 3em; 
+}
+
+.intro-logo {
+    width: 250px;
+    background: rgba(255, 255, 255, 0.6); 
 }
