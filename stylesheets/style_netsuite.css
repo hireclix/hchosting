@@ -3991,6 +3991,8 @@ button:focus {
   height: auto;
 }
 
+
+/* Custom (added June '16*/
 .blue-bg {
     background-color: #009ddc;
     color: #fff !important;
