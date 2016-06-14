@@ -4063,3 +4063,7 @@ button:focus {
     border-radius: 20px;
     max-width: 
 }
+
+.logo-home img {
+    width: 75%;
+}
