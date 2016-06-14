@@ -4016,7 +4016,7 @@ button:focus {
 }
 
 .blue-bg .feature-item {
-    min-height: 200px;
+    min-height: 275px;
 }
 
 .blue-bg .item .title-text {
@@ -4068,4 +4068,8 @@ button:focus {
 
 .logo-home img {
     width: 75%;
+}
+
+.blue-bg .item:hover .hovered {
+    display: none;
 }
