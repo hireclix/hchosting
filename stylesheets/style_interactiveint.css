@@ -506,7 +506,7 @@ button:focus {
   color: #fff;
 }
 .image-bg {
-  background: url(http://hireclix.github.io/hchosting/images/inin/Don-on-rock-climbing-wall_OPT.jpg);
+  background: url(http://hireclix.github.io/hchosting/images/inin/mountain2.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -3554,7 +3554,7 @@ button:focus {
 }
 /******************** SPONSORS 2 ********************/
 .sponsors-2.image-bg {
-  background: url(http://campbellhc.github.io/engagehireclix/images/inin/hero-woman-phone-city.jpg) center top;
+  background: url(http://hireclix.github.io/hchosting/images/inin/Don-on-rock-climbing-wall_OPT.jpg) center top;
   background-size: cover;
 }
 .sponsors-2.dark-image-bg {
@@ -3988,4 +3988,12 @@ button:focus {
 
 /* Custom (added 6/13/16) */
 
+
+.toggle {
+    display: none;
+}
+
+.toggle:target {
+    display: block;
+}
 
