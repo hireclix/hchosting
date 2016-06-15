@@ -504,7 +504,7 @@ button:focus {
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(https://raw.githubusercontent.com/hireclix/engagehireclix/gh-pages/images/rosetta_stone/kids-classroom_OPT.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -3979,29 +3979,8 @@ button:focus {
   height: auto;
 }
 
+
 /* Custom (added 6/13/16) */
-
-#video-landing {
-  height: 850px;
-  position: relative;
-  overflow-y: hidden;
-  overflow-x: hidden !important;
-  color: white;
-}
-
-#video-landing video {
-  position: absolute;
-  min-height: 100%;
-  min-width: 100%;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  z-index: -100;
-}
-
-#video-landing h1{
- 	font-size: 3em; 
-}
 
 .intro-logo {
     width: 200px;
