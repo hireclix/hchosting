@@ -4084,7 +4084,7 @@ button:focus {
   color: #111;
 }
 
-.main section {
+.main .content {
   display: none;
   padding: 20px 0 0;
   border-top: 1px solid #000;
