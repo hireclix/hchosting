@@ -4079,29 +4079,47 @@ button:focus {
     display: none;
 }
 
-
-/* Social Icons */
-
-a svg:hover #Facebook { 
-  fill: #23355b !important;
+.lower {
+    background-color: #666;
+    height: 75px; 
+    margin-top: -25px;
 }
 
-a svg:hover #LinkedIn { 
-  fill: #00496c !important;
+.lower p {
+    color: #ccc;
 }
 
-a svg:hover #Twitter { 
-  fill: #33678e !important;
+.lower a {
+    color: #ccc;
 }
 
-a svg:hover #glassdoor2 { 
-  fill: #4a6a18 !important;
+.lower a:hover {
+    color: #009DDC;
 }
 
-a svg:hover #Instagram { 
-  fill: #0a3351 !important;
+.footer-text {
+    width: 100%
 }
 
-a svg:hover #YouTube { 
-  fill: #700000 !important;
+.lower .copyright {
+    position: absolute;
+    left: 0;
+    margin-top: 15px;
+}
+
+.lower .right {
+    position: absolute;
+    right: 5;
+    margin-top: 15px;
+}
+
+.panel a.new-label span{
+  position: relative;
+  content: 'View More';
+}
+.panel:hover a.new-label span{
+  display: none;
+}
+.panel:hover a.new-label:after{
+  content: 'Apply Today';
 }
