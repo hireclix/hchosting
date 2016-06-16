@@ -4078,3 +4078,30 @@ button:focus {
 .blue-bg .item:hover .hovered {
     display: none;
 }
+
+
+/* Social Icons */
+
+a svg:hover #Facebook { 
+  fill: #23355b !important;
+}
+
+a svg:hover #LinkedIn { 
+  fill: #00496c !important;
+}
+
+a svg:hover #Twitter { 
+  fill: #33678e !important;
+}
+
+a svg:hover #glassdoor2 { 
+  fill: #4a6a18 !important;
+}
+
+a svg:hover #Instagram { 
+  fill: #0a3351 !important;
+}
+
+a svg:hover #YouTube { 
+  fill: #700000 !important;
+}
