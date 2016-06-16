@@ -509,7 +509,7 @@ button:focus {
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/netsuite/bannerImg4-min.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(http://campbellhc.github.io/engagehireclix/images/netsuite/bannerImg4-min.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -2996,7 +2996,7 @@ button:focus {
 }
 
 .testimonials-5.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/netsuite/People-crop.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/netsuite/People-crop.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -3554,7 +3554,7 @@ button:focus {
 }
 /******************** SPONSORS ********************/
 .sponsors-1 {
-  padding-top: 95px;
+  padding-top: 50px;
   padding-bottom: 100px;
 }
 .sponsors-1 .client-logo {
