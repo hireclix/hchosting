@@ -2996,7 +2996,7 @@ button:focus {
 }
 
 .testimonials-5.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/netsuite/People-crop.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/netsuite/waterloo-bg.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -4163,13 +4163,14 @@ footer a {
 \*------------------------------------*/
 .carousel{
     overflow:hidden;
-    width:50%;
+    width:70%;
     position:relative;
     margin: 0 auto;
 }
 .panes{
     list-style:none;
     position:relative;
+    
     width:500%; /* Number of panes * 100% */
     overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
      
@@ -4179,6 +4180,7 @@ footer a {
 }
 .panes > li{
     position:relative;
+    border: 2px solid #b0b0b0;
     float:left;
     width:20%; /* 100 / number of panes */
 }
@@ -4204,60 +4206,42 @@ footer a {
 
 @-moz-keyframes carousel{
     0%    { left:0; }
-    11%   { left:0; }
-    12.5% { left:-100%; }
-    23.5% { left:-100%; }
-    25%   { left:-200%; }
-    36%   { left:-200%; }
-    37.5% { left:-300%; }
-    48.5% { left:-300%; }
-    50%   { left:-400%; }
-    61%   { left:-400%; }
-    62.5% { left:-300%; }
-    73.5% { left:-300%; }
-    75%   { left:-200%; }
-    86%   { left:-200%; }
-    87.5% { left:-100%; }
-    98.5% { left:-100%; }
-    100%  { left:0; }
+    16%   { left:0; }
+    19% { left:-100%; }
+    35% { left:-100%; }
+    38%   { left:-200%; }
+    54%   { left:-200%; }
+    57% { left:-300%; }
+    70% { left:-300%; }
+    73%   { left:-400%; }
+    89%   { left:-400%; }
+    100%   { left:0%; }
 }
 
 @-webkit-keyframes carousel{
     0%    { left:0; }
-    11%   { left:0; }
-    12.5% { left:-100%; }
-    23.5% { left:-100%; }
-    25%   { left:-200%; }
-    36%   { left:-200%; }
-    37.5% { left:-300%; }
-    48.5% { left:-300%; }
-    50%   { left:-400%; }
-    61%   { left:-400%; }
-    62.5% { left:-300%; }
-    73.5% { left:-300%; }
-    75%   { left:-200%; }
-    86%   { left:-200%; }
-    87.5% { left:-100%; }
-    98.5% { left:-100%; }
-    100%  { left:0; }
+    16%   { left:0; }
+    19% { left:-100%; }
+    35% { left:-100%; }
+    38%   { left:-200%; }
+    54%   { left:-200%; }
+    57% { left:-300%; }
+    70% { left:-300%; }
+    73%   { left:-400%; }
+    89%   { left:-400%; }
+    100%   { left:0%; }
 }
 
 @keyframes carousel{
     0%    { left:0; }
-    11%   { left:0; }
-    12.5% { left:-100%; }
-    23.5% { left:-100%; }
-    25%   { left:-200%; }
-    36%   { left:-200%; }
-    37.5% { left:-300%; }
-    48.5% { left:-300%; }
-    50%   { left:-400%; }
-    61%   { left:-400%; }
-    62.5% { left:-300%; }
-    73.5% { left:-300%; }
-    75%   { left:-200%; }
-    86%   { left:-200%; }
-    87.5% { left:-100%; }
-    98.5% { left:-100%; }
-    100%  { left:0; }
+    16%   { left:0; }
+    19% { left:-100%; }
+    35% { left:-100%; }
+    38%   { left:-200%; }
+    54%   { left:-200%; }
+    57% { left:-300%; }
+    70% { left:-300%; }
+    73%   { left:-400%; }
+    89%   { left:-400%; }
+    100%   { left:0%; }
 }
