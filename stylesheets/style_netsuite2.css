@@ -513,6 +513,8 @@ button:focus {
   background-position: center top;
   background-size: cover;
 }
+
+
 .section-video {
   position: absolute;
   top: 0;
@@ -1626,10 +1628,23 @@ button:focus {
   opacity: 0.9;
 }
 /******************** APP HOME ********************/
+@media (min-width: 992px){
 .app-home-1 {
   padding-top: 140px;
   padding-bottom: 100px;
 }
+}
+
+.app-home-1 .heading-text {
+    font-size: 48px;
+}
+
+@media (max-width: 992px){
+.app-home-1 .heading-text {
+    font-size: 36px;
+}
+}
+
 @media (min-width: 992px) {
   .app-home-1 {
     text-align: left;
@@ -4167,6 +4182,13 @@ footer a {
     position:relative;
     margin: 0 auto;
 }
+
+@media (max-width: 768px) {
+    .carousel {
+        width: 90%;
+    }
+}
+
 .panes{
     list-style:none;
     position:relative;
