@@ -1,8 +1,15 @@
 /* Custom CSS -- Steve Rouse -- HireClix -- June '16 */
 
 #logo img {
-    width: 35%;
-    margin-top: -300px;
+    width: 75%;
+    margin-top: -100px;
+}
+
+@media (min-width: 768px){
+    #logo img {
+        width: 35%;
+        margin-top: -300px;
+}
 }
 
 #logo p {
