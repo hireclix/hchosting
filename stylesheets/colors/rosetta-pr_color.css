@@ -37,8 +37,8 @@ a {
   background: #ECC200;
 }
 .btn-trans {
-  color: #34A4E7;
-  border: 2px solid #34A4E7;
+  color: #fff;
+  background: #34A4E7;
 }
 .btn-trans .icon {
   fill: #34A4E7;
@@ -48,6 +48,7 @@ a {
 .btn-trans:active {
   background-color: #ECC200;
   border-color: #ECC200;
+    color: #111111;
 }
 .btn-white {
   color: #34A4E7;
