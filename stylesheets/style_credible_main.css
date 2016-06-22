@@ -1331,6 +1331,14 @@
 			margin: 0 0 2em 0;
 		}
 
+@media screen and (max-width: 767px) {
+    .image.featured {
+			display: block;
+			width: 75%;
+			margin: 0 auto 2em auto;
+		}
+}
+
 /* Button */
 
 	input[type="button"],
