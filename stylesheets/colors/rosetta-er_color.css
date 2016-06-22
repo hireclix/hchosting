@@ -14,6 +14,14 @@ a {
 }
 
 a:hover {
+  color: #111;  
+}
+
+a.rules {
+  color: #ECC200;  
+}
+
+a.rules:hover {
   color: #34A4E7;  
 }
 
