@@ -1376,7 +1376,7 @@
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #4278be url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #4278be url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 			color: #fff;
 		}
 
@@ -1427,7 +1427,7 @@
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #2f333b url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 			color: #fff;
 		}
 
@@ -1501,7 +1501,7 @@
 			position: relative;
 			display: inline-block;
 			color: #fff;
-			background: #2f333b url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #2f333b url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 			border-radius: 1em;
 			text-align: center;
 		}
@@ -1552,7 +1552,7 @@
 				left: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/shadow.png");
+				background: url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/shadow.png");
 			}
 
 			.wrapper .title:after {
@@ -1566,17 +1566,17 @@
 				right: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/shadow.png");
+				background: url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/shadow.png");
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #e97770 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+				background: #e97770 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 				color: #fff;
 			}
 
@@ -1594,11 +1594,11 @@
 			}
 
 		.wrapper.style3 {
-			background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 		}
 
 			.wrapper.style3 .title {
-				background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+				background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 				color: #fff;
 			}
 
@@ -1607,7 +1607,7 @@
 			}
 
 	#header-wrapper {
-		background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(img/vet2-crop.jpg) center center;
+		background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/vet2-crop.jpg) center center;
 		background-size: cover;
 	}
 
@@ -1618,11 +1618,11 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background: url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 		}
 
 	#footer-wrapper {
-		background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+		background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
@@ -1688,7 +1688,7 @@
 			}
 
 		#footer-wrapper .title {
-			background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #282b34 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 			color: #eee;
 		}
 
@@ -1710,7 +1710,7 @@
 		}
 
 		#footer-wrapper .feature-list h3:before {
-			background: #3d4249 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+			background: #3d4249 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 		}
 
 /* Logo */
@@ -2090,7 +2090,7 @@
 						}
 
 			.dropotron {
-				background: #222835 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+				background: #222835 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 				background-color: rgba(44, 50, 63, 0.925);
 				padding: 1.25em 1em 1.25em 1em;
 				border-radius: 0.35em;
@@ -2529,7 +2529,7 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #242730 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/credible/overlay.png");
+				background: #242730 url("https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/tenable/overlay.png");
 				box-shadow: inset -3px 0px 4px 0px rgba(0, 0, 0, 0.1);
 			}
 
