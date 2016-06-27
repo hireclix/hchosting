@@ -3997,7 +3997,7 @@ button:focus {
     display: block;
 }
 
-@media (max-width: 579px) {
+@media (max-width: 767px) {
     .hide-on-mobile {
         display: none;
     }
