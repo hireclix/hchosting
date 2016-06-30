@@ -1773,7 +1773,7 @@
 		}
 
 			#copyright a:hover {
-				color: #fff;
+				color: #00a5b5;
 			}
 
 /* Desktop + Tablet */
@@ -1991,7 +1991,7 @@
 				}
                 
         .wrapper .two-lines {
-            line-height: 1.2em;
+            line-height: 1.2em !important;
         }
 
 			#header-wrapper {
