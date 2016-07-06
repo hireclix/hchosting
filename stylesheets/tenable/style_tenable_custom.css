@@ -71,7 +71,7 @@ header.edit p {
 .testimonials-4 .testimonial-item {
   position: relative;
   min-height: 450px;
-  padding: 75px 30px 15px;
+  padding: 75px 15px 15px;
   border-radius: 4px;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -101,7 +101,7 @@ header.edit p {
 }
 
 .testimonials-4 blockquote {
-    font-size: 14px;
+    font-size: 13px;
     line-height: 22px;
 }
 
