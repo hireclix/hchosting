@@ -71,7 +71,7 @@ header.edit p {
 .testimonials-4 .testimonial-item {
   position: relative;
   min-height: 250px;
-  padding: 75px 15px 15px;
+  padding: 75px 25px 15px;
   border-radius: 4px;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -100,14 +100,9 @@ header.edit p {
     font-size: 12px;
 }
 
-.testimonials-4 blockquote {
-    font-size: 13px;
-    line-height: 22px;
-}
 
-.no-padding {
-    padding-left: 25px;
-}
+
+
 
 
 /* Carousel */
