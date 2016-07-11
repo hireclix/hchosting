@@ -1676,7 +1676,7 @@ button:focus {
 }
 /******************** APP HOME 3 ********************/
 .app-home-3 {
-  padding: 150px 0 200px;
+  padding: 75px 0 150px;
 }
 .app-home-3 .logo-home {
   margin-bottom: 80px;
@@ -3983,4 +3983,11 @@ button:focus {
   width: 100% \9;
   max-width: 100%;
   height: auto;
+}
+
+
+/* Custom (added 6/13/16) */
+
+.intro-logo {
+    width: 225px;
 }
