@@ -123,18 +123,18 @@ header.edit p {
     list-style:none;
     position:relative;
     
-    width:1000%; /* Number of panes * 100% */
+    width:1100%; /* Number of panes * 100% */
     overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
      
-    -webkit-animation:carousel 45s infinite;
-       -moz-animation:carousel 45s infinite;
-            animation:carousel 45s infinite;
+    -webkit-animation:carousel 55s infinite;
+       -moz-animation:carousel 55s infinite;
+            animation:carousel 55s infinite;
 }
 .panes > li{
     position:relative;
     border: 2px solid #b0b0b0;
     float:left;
-    width:10%; /* 100 / number of panes */
+    width:9.09%; /* 100 / number of panes */
 }
 .panes > li > a{
     display:block;
@@ -159,71 +159,77 @@ header.edit p {
 @-moz-keyframes carousel{
     0%    { left:0; }
     7%   { left:0; }
-    10% { left:-100%; }
-    17% { left:-100%; }
-    20%   { left:-200%; }
-    27%   { left:-200%; }
-    30% { left:-300%; }
-    37% { left:-300%; }
-    40%   { left:-400%; }
-    47%   { left:-400%; }
-    50% { left:-500%; }
-    57% { left:-500%; }
-    60%   { left:-600%; }
-    67%   { left:-600%; }
+    9% { left:-100%; }
+    16% { left:-100%; }
+    18%   { left:-200%; }
+    25%   { left:-200%; }
+    27% { left:-300%; }
+    34% { left:-300%; }
+    36%   { left:-400%; }
+    43%   { left:-400%; }
+    45% { left:-500%; }
+    52% { left:-500%; }
+    54%   { left:-600%; }
+    61%   { left:-600%; }
+    63% { left:-700%; }
     70% { left:-700%; }
-    77% { left:-700%; }
-    80%   { left:-800%; }
-    87%   { left:-800%; }
-    90%   { left:-900%; }
-    97%   { left:-900%; }
+    72%   { left:-800%; }
+    79%   { left:-800%; }
+    81%   { left:-900%; }
+    88%   { left:-900%; }
+    90%   { left:-1000%; }
+    97%   { left:-1000%; }
     100%   { left:0%; }
 }
 
 @-webkit-keyframes carousel{
     0%    { left:0; }
     7%   { left:0; }
-    10% { left:-100%; }
-    17% { left:-100%; }
-    20%   { left:-200%; }
-    27%   { left:-200%; }
-    30% { left:-300%; }
-    37% { left:-300%; }
-    40%   { left:-400%; }
-    47%   { left:-400%; }
-    50% { left:-500%; }
-    57% { left:-500%; }
-    60%   { left:-600%; }
-    67%   { left:-600%; }
+    9% { left:-100%; }
+    16% { left:-100%; }
+    18%   { left:-200%; }
+    25%   { left:-200%; }
+    27% { left:-300%; }
+    34% { left:-300%; }
+    36%   { left:-400%; }
+    43%   { left:-400%; }
+    45% { left:-500%; }
+    52% { left:-500%; }
+    54%   { left:-600%; }
+    61%   { left:-600%; }
+    63% { left:-700%; }
     70% { left:-700%; }
-    77% { left:-700%; }
-    80%   { left:-800%; }
-    87%   { left:-800%; }
-    90%   { left:-900%; }
-    97%   { left:-900%; }
+    72%   { left:-800%; }
+    79%   { left:-800%; }
+    81%   { left:-900%; }
+    88%   { left:-900%; }
+    90%   { left:-1000%; }
+    97%   { left:-1000%; }
     100%   { left:0%; }
 }
 
 @keyframes carousel{
     0%    { left:0; }
     7%   { left:0; }
-    10% { left:-100%; }
-    17% { left:-100%; }
-    20%   { left:-200%; }
-    27%   { left:-200%; }
-    30% { left:-300%; }
-    37% { left:-300%; }
-    40%   { left:-400%; }
-    47%   { left:-400%; }
-    50% { left:-500%; }
-    57% { left:-500%; }
-    60%   { left:-600%; }
-    67%   { left:-600%; }
+    9% { left:-100%; }
+    16% { left:-100%; }
+    18%   { left:-200%; }
+    25%   { left:-200%; }
+    27% { left:-300%; }
+    34% { left:-300%; }
+    36%   { left:-400%; }
+    43%   { left:-400%; }
+    45% { left:-500%; }
+    52% { left:-500%; }
+    54%   { left:-600%; }
+    61%   { left:-600%; }
+    63% { left:-700%; }
     70% { left:-700%; }
-    77% { left:-700%; }
-    80%   { left:-800%; }
-    87%   { left:-800%; }
-    90%   { left:-900%; }
-    97%   { left:-900%; }
+    72%   { left:-800%; }
+    79%   { left:-800%; }
+    81%   { left:-900%; }
+    88%   { left:-900%; }
+    90%   { left:-1000%; }
+    97%   { left:-1000%; }
     100%   { left:0%; }
 }
