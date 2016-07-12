@@ -52,6 +52,15 @@ a {
 .btn-white {
   color: #00C2DD;
 }
+
+.btn-white:hover,
+.btn-white:focus,
+.btn-white:active {
+  color: #fff;
+  background-color: #0D536D;
+  border-color: #0D536D;
+}
+
 .tab-btn li.active a {
   background-image: linear-gradient(to bottom right, #00C2DD, #00C2DD);
 }
