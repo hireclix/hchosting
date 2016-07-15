@@ -123,18 +123,17 @@ header.edit p {
     list-style:none;
     position:relative;
     
-    width:1100%; /* Number of panes * 100% */
+    width:1300%; /* Number of panes * 100% */
     overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
      
-    -webkit-animation:carousel 55s infinite;
-       -moz-animation:carousel 55s infinite;
-            animation:carousel 55s infinite;
+             /* Number of steps is 4n-3 where n= number of panes*/
+            animation:carousel 49s infinite;
 }
 .panes > li{
     position:relative;
     border: 2px solid #b0b0b0;
     float:left;
-    width:9.09%; /* 100 / number of panes */
+    width:7.69%; /* 100 / number of panes */
 }
 .panes > li > a{
     display:block;
@@ -156,80 +155,34 @@ header.edit p {
     background-color:rgba(0,0,0,0.75);
 }
 
-@-moz-keyframes carousel{
-    0%    { left:0; }
-    7%   { left:0; }
-    9% { left:-100%; }
-    16% { left:-100%; }
-    18%   { left:-200%; }
-    25%   { left:-200%; }
-    27% { left:-300%; }
-    34% { left:-300%; }
-    36%   { left:-400%; }
-    43%   { left:-400%; }
-    45% { left:-500%; }
-    52% { left:-500%; }
-    54%   { left:-600%; }
-    61%   { left:-600%; }
-    63% { left:-700%; }
-    70% { left:-700%; }
-    72%   { left:-800%; }
-    79%   { left:-800%; }
-    81%   { left:-900%; }
-    88%   { left:-900%; }
-    90%   { left:-1000%; }
-    97%   { left:-1000%; }
-    100%   { left:0%; }
-}
 
-@-webkit-keyframes carousel{
-    0%    { left:0; }
-    7%   { left:0; }
-    9% { left:-100%; }
-    16% { left:-100%; }
-    18%   { left:-200%; }
-    25%   { left:-200%; }
-    27% { left:-300%; }
-    34% { left:-300%; }
-    36%   { left:-400%; }
-    43%   { left:-400%; }
-    45% { left:-500%; }
-    52% { left:-500%; }
-    54%   { left:-600%; }
-    61%   { left:-600%; }
-    63% { left:-700%; }
-    70% { left:-700%; }
-    72%   { left:-800%; }
-    79%   { left:-800%; }
-    81%   { left:-900%; }
-    88%   { left:-900%; }
-    90%   { left:-1000%; }
-    97%   { left:-1000%; }
-    100%   { left:0%; }
-}
-
+/* Total time between start of one animation and the next is (100 / 2(n-1)) +3 where n= number of panes */
 @keyframes carousel{
     0%    { left:0; }
-    7%   { left:0; }
-    9% { left:-100%; }
-    16% { left:-100%; }
-    18%   { left:-200%; }
-    25%   { left:-200%; }
+    4.5%   { left:0; }
+    7.5% { left:-100%; }
+    12% { left:-100%; }
+    15%   { left:-200%; }
+    19.5%   { left:-200%; }
+    22.5% { left:-300%; }
     27% { left:-300%; }
-    34% { left:-300%; }
-    36%   { left:-400%; }
-    43%   { left:-400%; }
-    45% { left:-500%; }
-    52% { left:-500%; }
-    54%   { left:-600%; }
-    61%   { left:-600%; }
-    63% { left:-700%; }
-    70% { left:-700%; }
-    72%   { left:-800%; }
-    79%   { left:-800%; }
-    81%   { left:-900%; }
-    88%   { left:-900%; }
-    90%   { left:-1000%; }
-    97%   { left:-1000%; }
+    30%   { left:-400%; }
+    34.5%   { left:-400%; }
+    37.5% { left:-500%; }
+    42% { left:-500%; }
+    45%   { left:-600%; }
+    49.5%   { left:-600%; }
+    52.5% { left:-700%; }
+    57% { left:-700%; }
+    60%   { left:-800%; }
+    64.5%   { left:-800%; }
+    67.5%   { left:-900%; }
+    72%   { left:-900%; }
+    75%   { left:-1000%; }
+    79.5%   { left:-1000%; }
+    82.5%   { left:-1100%; }
+    87%   { left:-1100%; }
+    90%   { left:-1200%; }
+    97%   { left:-1200%; }
     100%   { left:0%; }
 }
