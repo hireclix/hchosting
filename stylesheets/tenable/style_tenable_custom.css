@@ -127,6 +127,8 @@ header.edit p {
     overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
      
              /* Number of steps is 4n-3 where n= number of panes*/
+            -webkit-animation:carousel 49s infinite;
+            -moz-animation:carousel 49s infinite;
             animation:carousel 49s infinite;
 }
 .panes > li{
@@ -158,6 +160,66 @@ header.edit p {
 
 /* Total time between start of one animation and the next is (100 / 2(n-1)) +3 where n= number of panes */
 @keyframes carousel{
+    0%    { left:0; }
+    4.5%   { left:0; }
+    7.5% { left:-100%; }
+    12% { left:-100%; }
+    15%   { left:-200%; }
+    19.5%   { left:-200%; }
+    22.5% { left:-300%; }
+    27% { left:-300%; }
+    30%   { left:-400%; }
+    34.5%   { left:-400%; }
+    37.5% { left:-500%; }
+    42% { left:-500%; }
+    45%   { left:-600%; }
+    49.5%   { left:-600%; }
+    52.5% { left:-700%; }
+    57% { left:-700%; }
+    60%   { left:-800%; }
+    64.5%   { left:-800%; }
+    67.5%   { left:-900%; }
+    72%   { left:-900%; }
+    75%   { left:-1000%; }
+    79.5%   { left:-1000%; }
+    82.5%   { left:-1100%; }
+    87%   { left:-1100%; }
+    90%   { left:-1200%; }
+    97%   { left:-1200%; }
+    100%   { left:0%; }
+}
+
+@-moz-keyframes carousel{
+    0%    { left:0; }
+    4.5%   { left:0; }
+    7.5% { left:-100%; }
+    12% { left:-100%; }
+    15%   { left:-200%; }
+    19.5%   { left:-200%; }
+    22.5% { left:-300%; }
+    27% { left:-300%; }
+    30%   { left:-400%; }
+    34.5%   { left:-400%; }
+    37.5% { left:-500%; }
+    42% { left:-500%; }
+    45%   { left:-600%; }
+    49.5%   { left:-600%; }
+    52.5% { left:-700%; }
+    57% { left:-700%; }
+    60%   { left:-800%; }
+    64.5%   { left:-800%; }
+    67.5%   { left:-900%; }
+    72%   { left:-900%; }
+    75%   { left:-1000%; }
+    79.5%   { left:-1000%; }
+    82.5%   { left:-1100%; }
+    87%   { left:-1100%; }
+    90%   { left:-1200%; }
+    97%   { left:-1200%; }
+    100%   { left:0%; }
+}
+
+@-webkit-keyframes carousel{
     0%    { left:0; }
     4.5%   { left:0; }
     7.5% { left:-100%; }
