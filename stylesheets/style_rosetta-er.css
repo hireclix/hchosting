@@ -3991,3 +3991,17 @@ button:focus {
 .intro-logo {
     width: 225px;
 }
+
+#hot-jobs h3 {
+    font-size: 20px;
+    color: #34A4E7;
+}
+
+#hot-jobs h6 {
+    font-size: 14px;
+}
+
+
+#hot-jobs .feature-item p {
+    font-size: 14px;
+}
