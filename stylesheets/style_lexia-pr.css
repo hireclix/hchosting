@@ -3987,3 +3987,19 @@ button:focus {
     border: 2px solid #eee;
 }
 
+#hot-jobs h3 {
+    font-size: 20px;
+    color: #34A4E7;
+}
+
+#hot-jobs h6 {
+    font-size: 14px;
+}
+
+.testimonials blockquote {
+    font-size: 14px
+}
+
+#hot-jobs .feature-item p {
+    font-size: 14px;
+}
