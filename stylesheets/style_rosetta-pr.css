@@ -1811,7 +1811,7 @@ button:focus {
 /******************** PHOTOGRAPHY HOME ********************/
 .photography-home {
   padding-top: 100px;
-  padding-bottom: 325px;
+  padding-bottom: 100px;
 }
 .photography-home.image-bg {
   background: url(http://campbellhc.github.io/engagehireclix/images/rosetta_stone/masthead-lg.jpg);
@@ -3974,4 +3974,22 @@ button:focus {
   width: 100% \9;
   max-width: 100%;
   height: auto;
+}
+
+
+#hot-jobs h3 {
+    font-size: 20px;
+    color: #34A4E7;
+}
+
+#hot-jobs h6 {
+    font-size: 14px;
+}
+
+.testimonials blockquote {
+    font-size: 14px
+}
+
+#hot-jobs .feature-item p {
+    font-size: 14px;
 }
