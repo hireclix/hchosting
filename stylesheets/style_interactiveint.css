@@ -509,7 +509,16 @@ button:focus {
   background: url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/inin/Don-on-the-Mountain_crop.jpg);
   background-position: center top;
   background-size: cover;
+  background-repeat: no-repeat;    
 }
+
+@media (max-width: 767px) {
+    .image-bg {
+  background-position: left top;    
+}
+
+}
+
 .dark-image-bg {
   background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/inin/mountain2.jpg);
   background-position: center top;
@@ -4002,3 +4011,4 @@ button:focus {
         display: none;
     }
 }
+
