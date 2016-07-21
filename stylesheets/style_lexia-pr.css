@@ -3970,7 +3970,7 @@ button:focus {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  width: 100% \9;
+  width: 100%;
   max-width: 100%;
   height: auto;
 }
@@ -3980,11 +3980,7 @@ button:focus {
 
 .intro-logo {
     width: 200px;
-    background: white; 
-}
-
-.contact-help img {
-    background: white;
+    padding-bottom: 50px;
 }
 
 .feature-item img {
