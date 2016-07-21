@@ -3980,7 +3980,7 @@ button:focus {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  width: 100% \9;
+  width: 100%;
   max-width: 100%;
   height: auto;
 }
