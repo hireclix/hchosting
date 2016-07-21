@@ -504,7 +504,7 @@ button:focus {
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/rosetta_stone/855c85fa-db4a-4393-8091-2ee89f1ea6a3-large.jpeg);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(https://raw.githubusercontent.com/hireclix/engagehireclix/gh-pages/images/rosetta_stone/kids-classroom_OPT.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -1670,7 +1670,7 @@ button:focus {
 }
 /******************** APP HOME 3 ********************/
 .app-home-3 {
-  padding: 150px 0 200px;
+  padding: 75px 0 200px;
 }
 .app-home-3 .logo-home {
   margin-bottom: 80px;
@@ -1810,8 +1810,8 @@ button:focus {
 }
 /******************** PHOTOGRAPHY HOME ********************/
 .photography-home {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 175px;
+  padding-bottom: 325px;
 }
 .photography-home.image-bg {
   background: url(http://campbellhc.github.io/engagehireclix/images/rosetta_stone/masthead-lg.jpg);
@@ -1819,7 +1819,7 @@ button:focus {
   background-size: cover;
 }
 .photography-home.dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/rosetta_stone/eand_education_lowerbg3.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/rosetta_stone/masthead-lg.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -2178,7 +2178,11 @@ button:focus {
   }
   .app-description-2 .section-heading {
     margin-top: 50px;
-    text-align: center;
+    text-align: left;
+  }
+  .app-description-2 .lines {
+    margin-left: 34px;
+    margin-right: auto;
   }
 }
 @media (max-width: 991px) {
@@ -3818,7 +3822,7 @@ button:focus {
   padding-bottom: 125px;
 }
 .contact-us-1.image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(https://raw.githubusercontent.com/hireclix/engagehireclix/gh-pages/images/rosetta_stone/kids-classroom_OPT.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(http://campbellhc.github.io/engagehireclix/images/rosetta_stone/banner-careers-2.jpg);
   background-size: cover;
   background-position: center top;
 }
@@ -3980,11 +3984,6 @@ button:focus {
 
 .intro-logo {
     width: 200px;
-    background: white; 
-}
-
-.contact-help img {
-    background: white;
 }
 
 .feature-item img {
@@ -3998,10 +3997,6 @@ button:focus {
 
 #hot-jobs h6 {
     font-size: 14px;
-}
-
-.testimonials blockquote {
-    font-size: 14px
 }
 
 #hot-jobs .feature-item p {
