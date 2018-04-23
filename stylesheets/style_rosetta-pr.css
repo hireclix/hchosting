@@ -3993,3 +3993,7 @@ button:focus {
 #hot-jobs .feature-item p {
     font-size: 14px;
 }
+
+.section-heading .lines {
+	width:120px
+}
